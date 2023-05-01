@@ -1,0 +1,72 @@
+.CardItem2 {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  
+.Header2 {
+    background-color: chartreuse;
+    -webkit-box-shadow: 0px 0px 4px 5px rgba(0,0,0,0.04);
+    -moz-box-shadow: 0px 0px 4px 5px rgba(0,0,0,0.04);
+    box-shadow: 0px 0px 4px 5px rgba(0,0,0,0.04);
+    width: 100%;         
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.detalleImg2 {
+    height: 400px;
+    width: 90%;
+}
+
+.detalleImg2 img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.Info2{
+    padding: 0px 30px;
+}
+
+.ItemFooter2{
+      background-color: brown;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+      width: 100%;
+}
+  
+.btnVolver{
+    font-weight: bold;
+    font-size: 20px;
+   
+
+}
+
+.info2 {
+      background-color: magenta;
+  }
+
+.Option2 {
+      margin-top: 10px;
+                  padding: 5px 25px;
+                  background-color: rgba(31, 30, 100, 0.856);
+                  border: none;
+                  color: white;
+                  border-radius: 5px;
+                  font-weight: bold;
+  }
+

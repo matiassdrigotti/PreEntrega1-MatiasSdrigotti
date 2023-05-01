@@ -1,0 +1,41 @@
+.NavBar {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    background-color: rgb(143, 137, 137);
+    color: white;
+    padding: 10px;
+}
+
+.GoldenCommerce{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Categories {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Option {
+    color: #FFF;
+    background-color: rgb(4, 4, 139);
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 20px;
+}
+
+.ActiveOption {
+    color: #FFF;
+    background-color: rgb(53, 53, 63);
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 20px;
+}

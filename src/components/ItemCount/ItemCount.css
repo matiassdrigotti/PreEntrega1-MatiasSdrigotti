@@ -1,0 +1,23 @@
+.Counter {
+    width: 100%;
+    background-color: gold;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+.Controls{
+    display: flex;
+    align-items: center;
+}
+
+.Button {
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
+
+.Number {
+    font-size: 25px;
+}

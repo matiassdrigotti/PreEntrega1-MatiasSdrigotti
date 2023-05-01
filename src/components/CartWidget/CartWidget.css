@@ -1,0 +1,13 @@
+.Navegador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(143, 137, 137);
+    padding: 10px;
+    font-size: 25px;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
